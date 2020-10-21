@@ -1,11 +1,10 @@
 {
   "name": "creative-agency-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "start:dev": "nodemon index.js",
+    
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "sharif",
@@ -20,5 +19,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharif-hossain/creative-agency-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sharif-hossain/creative-agency-server/issues"
+  },
+  "homepage": "https://github.com/sharif-hossain/creative-agency-server#readme",
+  "description": ""
 }
